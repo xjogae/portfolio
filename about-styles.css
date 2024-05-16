@@ -1,0 +1,10 @@
+/*POSITIONING*/
+body {
+	 position: relative;
+}
+/*END POSITIONING*/
+
+/*BOX MODEL*/
+* {
+	box-sizing: border-box;
+}
